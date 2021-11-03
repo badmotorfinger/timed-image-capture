@@ -87,7 +87,7 @@ void setup() {
 
   Serial.begin(115200);
   delay(1000); // Allow serial monitor to start
-  Serial.setDebugOutput(false);
+  Serial.setDebugOutput(true);
 
   esp_sleep_enable_timer_wakeup(TIME_TO_SLEEP * uS_TO_S_FACTOR);
   Serial.println("Setup ESP32 to sleep for every " + String(TIME_TO_SLEEP) + " Seconds");

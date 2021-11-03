@@ -1,5 +1,5 @@
--I/home/vince/sourcecode/arduino/TimedImageCapture/include
--I/home/vince/sourcecode/arduino/TimedImageCapture/src
+-I/home/vince/sourcecode/arduino/timed-image-capture/include
+-I/home/vince/sourcecode/arduino/timed-image-capture/src
 -I/home/vince/.platformio/packages/framework-arduinoespressif32/libraries/SD_MMC/src
 -I/home/vince/.platformio/packages/framework-arduinoespressif32/libraries/FS/src
 -I/home/vince/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config
